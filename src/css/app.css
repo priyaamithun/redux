@@ -1,0 +1,19 @@
+.form-container{
+    margin-left:40%;
+    margin-top:10%;
+}
+
+
+
+.reminder-list{
+
+    width:50%;
+    margin-top:10px;
+
+}
+.reminder-list li{
+    list-style: none;
+}
+li .list-Item {
+    display: inline-block;
+}
